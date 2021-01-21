@@ -1,5 +1,5 @@
 # Data-Warehouse :file_cabinet:
-This repository contains the dataset, Excel pivot tables and star schema, and also the report from the Data Warehouse projects I have undergone at Robert Gordon University.  I learned all stages of a data warehouse life-cycle (Planning, building and exploiting). Learned about OLAP and ETL processes. The 2 projects worked on have been explained below, the reports and files can be found in this repository.
+This repository contains the dataset, Excel pivot tables and star schema, and also the report from the Data Warehouse projects I have undergone at Robert Gordon University.  I learned all stages of a data warehouse life-cycle (Planning, building and exploiting). Learned about OLAP and ETL processes.
 
 ## Technologies and techniques used for this project
 
