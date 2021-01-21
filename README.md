@@ -9,7 +9,7 @@ This repository contains the dataset, Excel pivot tables and star schema, and al
 *	Microsoft Excel (Power Query, Power Pivot, DAX)
 * Identified and explained main concepts and components of data warehouse
 * Designed, analyse and applied methodologies for designing a data warehousing applications and OLAP.
-* Used Excel and DAX to answer BI questions from the warehouse database I created.
+* Used Excel and DAX to answer BI questions from the data warehouse I created.
 
 ### Data modelling SSIS and data analysis with SSAS
 * Microsoft SQL Server, SQL and Transact-SQL
